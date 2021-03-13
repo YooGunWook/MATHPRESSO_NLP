@@ -2,11 +2,11 @@
 
 ## Contribution of Project
 
-- [김희진][https://github.com/gimmizz]
-- [안영진][https://github.com/snoop2head]
-- [김지환][https://github.com/sopogen]
-- [유건욱][https://github.com/YooGunWook]
-- [최정윤][https://github.com/yuna-102]
+- [김희진](https://github.com/gimmizz)
+- [안영진](https://github.com/snoop2head)
+- [김지환](https://github.com/sopogen)
+- [유건욱](https://github.com/YooGunWook)
+- [최정윤](https://github.com/yuna-102)
 
 ## 산학 주제
 
