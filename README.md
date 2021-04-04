@@ -108,10 +108,6 @@ NLP 파트이며 수학 문제에 대한 데이터가 주어질 때 문제의 �
   tokenizer.tokenize("합집합 A∪B")
   ```
   - [x] 수학 기호들이 [UNK] 토큰으로 표시 되지는 않나?: ∉, ≠ 기호 등은 안 됨. 하지만 prediction에 크게 상관 없을 듯.
-- [x] 개발환경(구글 드라이브 폴더) 통일
-  - [x] [📂 우리 팀 KoElectra & BERT 코드](https://drive.google.com/drive/u/2/folders/1dKjz7dVv9NVpCnoGSyfzDd4V7zU4W4EI)
-    * ID: ybigtavision@gmail.com
-    * PW: ybigta!best!
   - [x] [Colab - Github Private Repo](https://colab.research.google.com/drive/1ZQxKM9Dt1fJPsp4DDkEtJx9Nl7DT0bWk#scrollTo=HCa-uo_kK_Nz)
   - [x] [Open in Colab 크롬 익스텐션 깔기.](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en)
 - [x] TFIDF, Word2vec은 버리자 ㅠㅠ
